@@ -40,6 +40,14 @@ EmployeePerformanceAnalyzer/
 | Searching Employee | ![Search Employee](search.png) |
 | Top Performers | ![Top Performers](top_performers.png) |
 
+## 🎥 Video Demonstration
+
+A short demonstration video is included for clarity.  
+This video shows how the program runs step-by-step through the menu options.
+
+| Demo | File |
+|------|------|
+| Program Working Video | `demo_video.mp4` |
 
 ## 🎯 Learning Outcomes
 - Applied **Object-Oriented Programming**
