@@ -44,7 +44,6 @@ EmployeePerformanceAnalyzer/
 ## 🎯 Learning Outcomes
 - Applied **Object-Oriented Programming**
 - Used **CSV file handling**
-- Created a **Menu-driven CLI application**
 - Implemented searching, sorting & updating features
 
 
