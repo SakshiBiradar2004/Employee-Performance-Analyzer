@@ -4,7 +4,7 @@ This is a simple Python project to **manage and analyze employee performance**.
 It allows adding, viewing, searching, updating, deleting employee records and also identifies **Top 3 performers** based on performance score.  
 Data is stored permanently in a **CSV file**, so it is not lost when the program closes.
 
-## 🔧 Features
+## Features
 - Add Employee (ID, Name, Department, Score)
 - View All Employees in table format
 - Search Employee by **ID** or **Name**
@@ -14,7 +14,7 @@ Data is stored permanently in a **CSV file**, so it is not lost when the program
 - Save & Load data using CSV
 - Input validation and duplicate ID prevention
 
-## 🛠️ Tech Used
+##  Tech Used
 | Component | Description |
 |----------|-------------|
 | Language | Python |
@@ -36,7 +36,7 @@ EmployeePerformanceAnalyzer/
 │
 └── demo_video.mp4 
 
-## 🖼️ Screenshots
+##  Screenshots
 
 > The following screenshots demonstrate the working of the Employee Performance Analyzer project.
 
@@ -47,7 +47,7 @@ EmployeePerformanceAnalyzer/
 | Searching Employee | ![Search Employee](search.png) |
 | Top Performers | ![Top Performers](top_performers.png) |
 
-## 🎥 Video Demonstration
+##  Video Demonstration
 
 A short demonstration video is included for clarity.  
 This video shows how the program runs step-by-step through the menu options.
@@ -56,7 +56,7 @@ This video shows how the program runs step-by-step through the menu options.
 |------|------|
 | Program Working Video | `demo_video.mp4` |
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 - Applied **Object-Oriented Programming**
 - Used **CSV file handling**
 - Implemented searching, sorting & updating features
