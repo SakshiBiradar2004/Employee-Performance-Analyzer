@@ -7,7 +7,7 @@ Data is stored permanently in a **CSV file**, so it is not lost when the program
 ## 🔧 Features
 - Add Employee (ID, Name, Department, Score)
 - View All Employees in table format
-- Search Employee by **ID** or **Name (partial match also allowed)**
+- Search Employee by **ID** or **Name**
 - Update Employee details
 - Delete Employee
 - Display **Top 3 Performers** by score
@@ -19,7 +19,7 @@ Data is stored permanently in a **CSV file**, so it is not lost when the program
 |----------|-------------|
 | Language | Python |
 | Concepts | OOP (Classes & Objects), Lists, File Handling, CSV |
-| Environment | VS Code / PyCharm / Terminal |
+| Environment | VS Code  / Terminal |
 
 ## 📂 Project Structure
 EmployeePerformanceAnalyzer/
