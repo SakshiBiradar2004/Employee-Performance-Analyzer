@@ -27,7 +27,14 @@ EmployeePerformanceAnalyzer/
 ├── analyzer.py        # Backend logic (add, search, update, delete, save, load)
 ├── main.py            # Main menu interface
 ├── README.md          # Documentation
-└── (employees.csv)    # Automatically created after save
+├── (employees.csv)    # Automatically created after save
+├── screenshots/
+│ ├── add.png
+│ ├── search.png
+│ ├── view.png
+│ └── top_performers.png
+│
+└── demo_video.mp4 
 
 ## 🖼️ Screenshots
 
